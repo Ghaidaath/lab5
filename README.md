@@ -30,4 +30,18 @@ task3:
 <img width="960" height="540" alt="2025-10-29 (9)" src="https://github.com/user-attachments/assets/7475f5aa-0c92-4905-b6be-c805a2212011" />
 
 
-task4
+task4:
+
+<img width="960" height="540" alt="2025-10-29 (11)" src="https://github.com/user-attachments/assets/8bbe74e1-6bb6-45ce-8ab0-c77414c55897" />
+
+<img width="960" height="540" alt="2025-10-29 (12)" src="https://github.com/user-attachments/assets/bdec0868-c673-4189-b935-0b1612e584fb" />
+
+<img width="960" height="540" alt="2025-10-29 (13)" src="https://github.com/user-attachments/assets/5a713649-cbe1-4c63-859d-19ab689dadf9" />
+
+<img width="960" height="540" alt="2025-10-29 (14)" src="https://github.com/user-attachments/assets/e11d8776-3bc5-4a24-a18a-c6bfae6d6a74" />
+
+<img width="960" height="540" alt="2025-10-29 (15)" src="https://github.com/user-attachments/assets/f7825367-a9aa-4b8d-8b98-11a85ccf1bb5" />
+
+<img width="960" height="540" alt="2025-10-29 (16)" src="https://github.com/user-attachments/assets/d5d1a98b-4a4e-4889-b9ea-998e0f99acc3" />
+
+
