@@ -18,3 +18,16 @@ task2:
 
 <img width="960" height="540" alt="2025-10-29 (5)" src="https://github.com/user-attachments/assets/85d79c9c-77c8-40ee-9128-611ce4271510" />
 
+
+task3:
+
+<img width="960" height="540" alt="2025-10-29 (6)" src="https://github.com/user-attachments/assets/cb5c21d2-3d80-4edb-b5db-e0c2411ff7a9" />
+
+<img width="960" height="540" alt="2025-10-29 (7)" src="https://github.com/user-attachments/assets/53afad52-c9eb-4438-967e-8f06d00c14da" />
+
+<img width="960" height="540" alt="2025-10-29 (8)" src="https://github.com/user-attachments/assets/f947c999-3d99-4964-a2be-b2f0358eb361" />
+
+<img width="960" height="540" alt="2025-10-29 (9)" src="https://github.com/user-attachments/assets/7475f5aa-0c92-4905-b6be-c805a2212011" />
+
+
+task4
